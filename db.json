@@ -1,5 +1,13 @@
 {
-  "blackProduct": "#444444",
-  "blueProduct": "#106DA1",
-  "brownProduct": "#AE6D0C"
+  "colors": [
+    {
+      "black": "#444444"
+    },
+    {
+      "blue": "#106DA1"
+    },
+    {
+      "brown": "#AE6D0C"
+    }
+  ]
 }
